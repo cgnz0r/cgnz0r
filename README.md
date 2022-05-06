@@ -2,6 +2,7 @@
 - 💻 Frontend Developer
 - 📜 Stack: Vue (2, 3), Nuxt, Vuex, Pinia, jQuery, knockout, SCSS, Docker, Makefile, CI/CD, Webpack, Gulp
 - 📫 How to reach me: cgnz0r@gmail.com 
+- 📌 My codewars: https://www.codewars.com/users/cgnz0r
 
 
 <!---
