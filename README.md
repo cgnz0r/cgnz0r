@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cgnz0r
-- 👀 I’m interested in web development especially vue.js framework
-- 🌱 I’m currently learning vue.js, design patterns, etc.
-- :space_invader: [My current vue.js petProject](https://github.com/cgnz0r/organizer-app)
+- 👋 Hi, I’m @cgnz0r and it's my home account (I am here very rarely ;p)
+- 💻 Frontend Developer
+- 📜 Stack: Vue (2, 3), Nuxt, Vuex, Pinia, jQuery, knockout, SCSS, Docker, Makefile, CI/CD, Webpack, Gulp
 - 📫 How to reach me: cgnz0r@gmail.com 
 
 
