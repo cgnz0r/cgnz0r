@@ -2,9 +2,9 @@
 - 💻 Frontend Developer (a bit of backend)
 - 📜 Stack Frontend: 
   - ofc: HTML, CSS, SCSS, vanila JS, typescript
-  - Frameworks: Vue (2, 3), Nuxt, Knockout
+  - Frameworks: Vue (2, 3), Nuxt
   - Statemanagers: Vuex, Pinia
-  - Legacy: jQuery
+  - Legacy: jQuery, Knockout
   - Docker, Makefile, CI/CD, Webpack, Gulp
 - 📜 Stack Backend: 
   - NodeJS
