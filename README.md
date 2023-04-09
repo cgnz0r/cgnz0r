@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @cgnz0r and it's my home account (I am here very rarely ;p)
 - 💻 Frontend Developer
-- 📜 Stack: Vue (2, 3), Nuxt, Vuex, Pinia, jQuery, knockout, SCSS, Docker, Makefile, CI/CD, Webpack, Gulp, NodeJS, ExpressJS, MongoDB
+- 📜 Stack Frontend: 
+  - ofc: HTML, CSS, SCSS, vanila JS, typescript,
+  - Frameworks: Vue (2, 3), Nuxt, Knockout
+  - Statemanagers: Vuex, Pinia
+  - Legacy: jQuery
+  - Docker, Makefile, CI/CD, Webpack, Gulp
+- 📜 Stack Backend: 
+  - NodeJS
+  - ExpressJS
+  - MongoDB
 - 📫 How to reach me: cgnz0r@gmail.com 
 - 📌 My codewars: https://www.codewars.com/users/cgnz0r
 
