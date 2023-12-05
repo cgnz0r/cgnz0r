@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cgnz0r and it's my home account (I am here very rarely ;p)
+- 👋 Hi, I’m @cgnz0r and it's my home account
 - 💻 Frontend Developer (a bit of backend)
 - 📜 Stack Frontend: 
-  - ofc: HTML, CSS, SCSS, vanila JS, typescript
-  - Frameworks: Vue (2, 3), Nuxt
+  - ofc: HTML, SCSS, JS, TS
+  - Frameworks: Vue 2, Vue 3, Nuxt, React, Next
   - Statemanagers: Vuex, Pinia
   - Legacy: jQuery, Knockout
   - Docker, Makefile, CI/CD, Webpack, Gulp
