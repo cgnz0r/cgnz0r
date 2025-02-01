@@ -1,20 +1,18 @@
-- 👋 Hi, I’m @cgnz0r and it's my home account
-- 💻 Frontend Developer (a bit of backend)
-- 📜 Stack Frontend: 
+- 👋 Hi, I’m @enkvinima and this is my home account
+- 💻 Frontend Developer
+- 📜 Stack:
   - ofc: HTML, SCSS, JS, TS
-  - Frameworks: Vue 2, Vue 3, Nuxt, React, Next
-  - Statemanagers: Vuex, Pinia, Redux
+  - Frameworks: React, Next, Vue 2, Vue 3, Nuxt
+  - Statemanagers: Zustand, Redux, Vuex, Pinia
   - Legacy: jQuery, Knockout
-  - Docker, Makefile, CI/CD, Webpack, Gulp
-- 📜 Stack Backend: 
-  - NodeJS
-  - ExpressJS
-  - MongoDB
-- 📫 How to reach me: cgnz0r@gmail.com 
-- 📌 My codewars: https://www.codewars.com/users/cgnz0r
+  - UI: Mantine, MUI
+  - Build/deploy/etc.: Docker, Makefile, CI/CD, Webpack, Gulp
+- 📫 How to reach me:
+  - email: cgnz0r@gmail.com
+  - telegram: @enkvinima
 
 
 <!---
-cgnz0r/cgnz0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+enkvinima/enkvinima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
